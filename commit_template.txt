@@ -1,0 +1,15 @@
+# Commit message template
+# <type>(<scope>): <short summary>
+#
+# Types:
+#   feat     - a new feature
+#   fix      - a bug fix
+#   docs     - documentation only changes
+#   style    - code style changes (formatting, missing semi-colons, etc)
+#   refactor - code changes that neither fixes a bug nor adds a feature
+#   perf     - code changes that improve performance
+#   test     - adding missing tests or correcting existing tests
+#   chore    - changes to the build process or auxiliary tools
+#
+# Example:
+# feat(backend): add API endpoint for risk prediction
